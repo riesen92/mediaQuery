@@ -1,2 +1,2 @@
-# mediaQuery
-Trabajo Media Query  Bootcamp Escalab
+# MediaQuery
+Media Query  Bootcamp Escalab
