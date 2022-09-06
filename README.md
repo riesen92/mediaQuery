@@ -1,2 +1,2 @@
 # MediaQuery
-Media Query  Bootcamp Escalab
+Media Query 
